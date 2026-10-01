@@ -1,0 +1,9 @@
+<strings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <string id="AppName">Get Fitter</string>
+    <string id="LogRest">Log rest day?</string>
+    <string id="EndCircuit">End circuit?</string>
+    <string id="ResetPlan">Reset the plan?</string>
+    <string id="SaveRun">Save run</string>
+    <string id="SaveCombo">Save and start circuit</string>
+    <string id="DiscardRun">Discard run</string>
+</strings>
